@@ -7,6 +7,7 @@ Important things:
   - Please copy the Dons_settings.json file to SimHub\JavascriptExtensions folder and edit it to your likes.
   - To make this Dashboard working you need to install RomainRob's iRacing Extra Properties plugin for Simhub.
   - Also make sure that you map the key "t" as your text chat hotkey in iRacing.<br>
+  - Make sure you install the fonts which are located in "_SHFonts" subfolder of this Dashboard. 
 <br>
 <br>
 Here you can adjust a few color settings but also the label text of the "Dashboard Settings" page. More flexibility is planned for future releases.<br>
