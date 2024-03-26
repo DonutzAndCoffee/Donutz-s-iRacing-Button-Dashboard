@@ -28,7 +28,7 @@ Message 08:<br>
 <br>
 
 ``` 
-TEST
+return '#fuel +' + Math.floor($prop('CarSettings_MaxFUEL') +1) + 'l$';<br>
 ```
 
 Some screenshots:<br>
