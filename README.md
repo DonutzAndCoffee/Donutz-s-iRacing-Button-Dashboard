@@ -16,7 +16,7 @@ You need to map the buttons using the common SimHub methods. Don't hesitate to p
 https://www.buymeacoffee.com/donutz
 <br><br><br>
 At "iRacing Extras" tab (part of RomainRob's plugin) you need to set these as JavaScript:<br>
-Message 01: ´return '#fuel +' + Math.floor($prop('CarSettings_MaxFUEL') +1) + 'l$';<br>´
+Message 01: ´´return '#fuel +' + Math.floor($prop('CarSettings_MaxFUEL') +1) + 'l$';<br>´´
 Message 07: return "#tc 1$";<br>
 Message 08: return "#tc 2$";<br>
 
