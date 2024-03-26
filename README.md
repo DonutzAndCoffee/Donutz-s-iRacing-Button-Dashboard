@@ -13,7 +13,7 @@ Here you can adjust a few color settings but also the label text of the "Dashboa
 You need to map the buttons using the common SimHub methods. Don't hesitate to ping me if you need some guidance. I plan to create a tutorial video as well.<br>
 <br>
 https://www.buymeacoffee.com/donutz
-<br>
+<br><br><br>
 
 ![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/642d9b5e-1f49-4d14-8d88-4889bf9fcea3)
 ![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/98c5c4e6-9636-406a-9884-c6fdeea91d0c)
