@@ -6,5 +6,6 @@ Please copy the Dons_settings.json file to SimHub\JavascriptExtensions folder an
 ![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/4411c942-d14a-4fed-bc04-4466346b79f9)
 
 
+https://www.buymeacoffee.com/donutz
 
 
