@@ -3,7 +3,7 @@ DIBD is a SimHub dashboard / touchscreen button box escecially created for iRaci
 The header shows track and weather info including a little arrow indicating the development of the specific detail. The footer gives info about your performance against other drivers. Currently you can switch between last lap time and gap/stint/tire compound. Just press the line to switch between these modes.
 Please copy the Dons_settings.json file to SimHub\JavascriptExtensions folder and edit it to your likes. To make this Dashboard working you need to install RomainRob's iRacing Extra Properties plugin for Simhub.
 Here you can adjust a few color settings but also the label text of the "Dashboard Settings" page. More flexibility is planned for future releases.
-You need to map the buttons using the common SimHub methods. Don't hesitate to ping me if you need some guidance.
+You need to map the buttons using the common SimHub methods. Don't hesitate to ping me if you need some guidance. I plan to create a tutorial video as well.
 
 https://www.buymeacoffee.com/donutz
 
