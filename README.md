@@ -17,9 +17,7 @@ https://www.buymeacoffee.com/donutz
 <br><br><br>
 At "iRacing Extras" tab (part of RomainRob's plugin) you need to set these as JavaScript:<br>
 Message 01:<br>
-```javascript
   return '#fuel +' + Math.floor($prop('CarSettings_MaxFUEL') +1) + 'l$';<br>
-```
 Message 07:<br>
   return "#tc 1$";<br>
 Message 08:<br>
