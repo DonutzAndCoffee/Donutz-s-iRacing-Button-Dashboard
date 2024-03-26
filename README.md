@@ -12,8 +12,7 @@ Important things:
 <br>
 Here you can adjust a few color settings but also the label text of the "Dashboard Settings" page. More flexibility is planned for future releases.<br>
 You need to map the buttons using the common SimHub methods. Don't hesitate to ping me if you need some guidance. I plan to create a tutorial video as well.<br>
-<br>
-https://www.buymeacoffee.com/donutz
+
 <br><br><br>
 At "iRacing Extras" tab (part of RomainRob's plugin) you need to set these as JavaScript:<br>
 Message 01:<br>
@@ -38,7 +37,9 @@ Message 08:<br>
 
 <br>
 
-
+<br>
+If you like you may spend me a coffee. :) https://www.buymeacoffee.com/donutz
+<br><br><br>
 
 Some screenshots:<br>
 
