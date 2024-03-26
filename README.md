@@ -16,7 +16,9 @@ You need to map the buttons using the common SimHub methods. Don't hesitate to p
 https://www.buymeacoffee.com/donutz
 <br><br><br>
 At "iRacing Extras" tab (part of RomainRob's plugin) you need to set these as JavaScript:
-![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/ceb0f346-59eb-4b4c-b515-4c76b24ffee4)
+<br>
+![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/d60cb5cf-5f0d-4647-93eb-bcc49e67a5e2)
+
 <br>
 
 ![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/642d9b5e-1f49-4d14-8d88-4889bf9fcea3)
