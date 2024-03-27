@@ -42,6 +42,10 @@ return "#tc 2$";
 If you like you may spend me a coffee. :) https://www.buymeacoffee.com/donutz
 <br><br><br>
 
+
+Map the buttons like this:
+![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/77242bdb-2316-43e3-bd13-8a4251531908)
+
 Some screenshots:<br>
 
 ![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/642d9b5e-1f49-4d14-8d88-4889bf9fcea3)
@@ -51,9 +55,9 @@ Some screenshots:<br>
 ![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/c68f0609-dbdb-431d-9a6c-a6aa992c01e7)
 ![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/03bc0574-313c-439e-a947-28ab4ec6489a)
 
-Map the buttons like this:
-![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/77242bdb-2316-43e3-bd13-8a4251531908)
-
+Change log:
+v2024.03.27:
+- Track temp and air temp displays have been mixed up. This has been fixed now.
 
 
 
