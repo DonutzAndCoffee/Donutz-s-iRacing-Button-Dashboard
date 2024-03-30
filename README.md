@@ -48,14 +48,18 @@ Map the buttons like this:
 
 Some screenshots:<br>
 
-![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/642d9b5e-1f49-4d14-8d88-4889bf9fcea3)
-![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/98c5c4e6-9636-406a-9884-c6fdeea91d0c)
-![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/4411c942-d14a-4fed-bc04-4466346b79f9)
-![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/7a16adc7-e59a-4a03-847d-19903479655c)
-![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/c68f0609-dbdb-431d-9a6c-a6aa992c01e7)
-![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/03bc0574-313c-439e-a947-28ab4ec6489a)
+![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/d8ae6543-8baf-4c85-bd1e-c6526be9b2d9)
+![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/9e5bff85-98a0-4b1b-b4ab-df0da660ef1f)
+![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/935b6dc4-f940-4165-aaf9-b5a925c23809)
+![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/23b52a34-e3ab-43e6-9787-4363f3f6a009)
+![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/519516dd-bcfa-429d-b43f-f4db82f88867)
+
+
 
 Change log:
+v2024.03.30:
+- Complete redesign of all buttons.
+- Added a few color options to json config file.
 v2024.03.27:
 - Track temp and air temp displays have been mixed up. This has been fixed now.
 
