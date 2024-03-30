@@ -3,7 +3,8 @@ DIBD is a SimHub dashboard / touchscreen button box especially created for iRaci
 Most of the squares you find on these screenshots down below are touch buttons which let you for instance activate the tires you want to change during next pit stop or add fuel, switch tire compund etc. The header shows track and weather info including a little arrow indicating the development of the specific detail. The footer gives info about your performance against other drivers. Currently you can switch between [last lap time/tire compound] and [gap/stint/tire compound] of same car class. Just press the line to switch between these modes.<br>
 <br>
 <br>
-Important things: 
+Important things:
+  - This is still a quite early stage of the project. So expect some bugs. ;) Also a few features are still do be implemented.
   - Please copy the Dons_settings.json file to SimHub\JavascriptExtensions folder and edit it to your likes.
   - To make this Dashboard working you need to install RomainRob's iRacing Extra Properties plugin for Simhub.
   - Also make sure that you map the key "t" as your text chat hotkey in iRacing.<br>
