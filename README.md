@@ -15,6 +15,8 @@ Here you can adjust a few color settings but also the label text of the "Dashboa
 You need to map the buttons using the common SimHub methods. Don't hesitate to ping me if you need some guidance. I plan to create a tutorial video as well.<br>
 
 <br><br><br>
+RomainRob's iRacing Extra Properties plugin can be found here:<br>
+https://www.simhubdash.com/community-2/dashboard-templates/romainrobs-collection/<br>
 At "iRacing Extras" tab (part of RomainRob's plugin) you need to set these as JavaScript:<br>
 Message 01:<br>
 
