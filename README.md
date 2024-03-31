@@ -60,7 +60,7 @@ Some screenshots:<br>
 
 
 
-Change log:
+Change log:<br>
 v2024.03.30:
 - Complete redesign of all buttons.
 - Added a few color options to json config file.<br>
