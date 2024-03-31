@@ -9,7 +9,8 @@ Important things:
   - To make this Dashboard working you need to install RomainRob's iRacing Extra Properties plugin for Simhub.
   - Also make sure that you map the key "t" as your text chat hotkey in iRacing.<br>
   - Make sure you install the fonts which are located in "_SHFonts" subfolder of this Dashboard.
-  - configure chat messages at Simhub "iRacing Extras" tab as described a bit further below.
+  - Configure chat messages at Simhub "iRacing Extras" tab as described a bit further below.
+  - To be able to use all features make sure you installed the latest beta version of Simhub. This enables you to map Dashboard buttons to the controller mapper.
 <br>
 <br>
 Here you can adjust a few color settings but also the label text of the "Dashboard Settings" page. More flexibility is planned for future releases.<br>
