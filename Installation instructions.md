@@ -39,5 +39,11 @@
   Copy the "Dons_settings.json" file to C:\Program Files (x86)\SimHub\JavascriptExtensions (or wherever you installed Simhub).
 
 8. Adjust details to your liking. In this Youtube video I show some of the mechanics how to configure the Dashboard:<br>
-   https://www.youtube.com/watch?v=6EnJKe7mRkg
+   https://www.youtube.com/watch?v=6EnJKe7mRkg (German language) <br>
+   This describes it in one picture:<br>
+   ![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/1f29e82c-5db6-42bf-9fb6-41bde75d46d3)
+
+   <br> <br> Just ping me if there are any questions.
+
+   
    
