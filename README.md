@@ -65,7 +65,7 @@ v2024.03.30:
 - Complete redesign of all buttons.
 - Added a few color options to json config file.<br>
 <br>
-v2024.03.27:
+v2024.03.27:<br>
 - Track temp and air temp displays have been mixed up. This has been fixed now.<br>
 
 <br>
