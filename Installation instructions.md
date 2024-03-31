@@ -32,4 +32,12 @@
   ```
 
 
-7. 
+6. Make sure that in iRacing your shortcut for text chat is set to "t". <br>
+
+7. Download latest release of this Dashboard including the config file Dons_settings.json. <br>
+  Double click the  "Donutz.s.iRacing.Button.Dashbord.simhubdash"  file. This should install the Dashboard to Simhub.<br>
+  Copy the "Dons_settings.json" file to C:\Program Files (x86)\SimHub\JavascriptExtensions (or wherever you installed Simhub).
+
+8. Adjust details to your liking. In this Youtube video I show some of the mechanics how to configure the Dashboard:<br>
+   https://www.youtube.com/watch?v=6EnJKe7mRkg
+   
