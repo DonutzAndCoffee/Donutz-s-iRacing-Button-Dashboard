@@ -12,6 +12,9 @@ Important things:
   - Configure chat messages at Simhub "iRacing Extras" tab as described a bit further below.
   - To be able to use all features make sure you installed the latest beta version of Simhub. This enables you to map Dashboard buttons to the controller mapper.
 <br>
+<p>
+<b>Installation instructions: </b>
+</p>
 <br>
 Here you can adjust a few color settings but also the label text of the "Dashboard Settings" page. More flexibility is planned for future releases.<br>
 You need to map the buttons using the common SimHub methods. Don't hesitate to ping me if you need some guidance. I plan to create a tutorial video as well.<br>
