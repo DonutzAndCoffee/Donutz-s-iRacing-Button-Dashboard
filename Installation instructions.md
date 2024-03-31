@@ -9,3 +9,10 @@
 
 4. Enable the plugin in Simhub. Go to Settings --> Plugins tab and scoll down to "RSC - iRacing Extra Properties". Enable both switches. <br>
 ![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/5f5fe857-5ce0-45aa-90c5-fe9a9f5c0ff9)
+
+5. Set text chat messages here:
+   ![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/28b17cfb-05d8-4392-a093-ce72f2cc1b4c)
+
+   
+
+7. 
