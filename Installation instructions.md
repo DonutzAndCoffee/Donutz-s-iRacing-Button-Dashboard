@@ -13,6 +13,23 @@
 5. Set text chat messages here:
    ![grafik](https://github.com/DonutzAndCoffee/Donutz-s-iRacing-Button-Dashboard/assets/62204936/28b17cfb-05d8-4392-a093-ce72f2cc1b4c)
 
-   
+   Message 01:<br>
+
+``` 
+return '#fuel +' + Math.floor($prop('CarSettings_MaxFUEL') +1) + 'l$';
+```
+
+Message 07:<br>
+
+```
+return "#tc 1$";
+```
+
+Message 08:<br>
+
+```
+return "#tc 2$";
+```
+
 
 7. 
